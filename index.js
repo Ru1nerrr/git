@@ -1,1 +1,1 @@
-const users = [];
+const users = ["Кирилл", "Александр"];
